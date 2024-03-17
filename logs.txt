@@ -58,3 +58,7 @@
 [18:37:42] Addressbook has been loaded!
 [18:38:43] Contact abc has been added.
 [18:38:43] Addressbook has been saved!
+[19:07:39] Addressbook has been loaded!
+[19:29:12] Addressbook has been loaded!
+[19:30:04] Contact bn has been added.
+[19:30:04] Addressbook has been saved!
