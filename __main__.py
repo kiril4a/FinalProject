@@ -1,7 +1,9 @@
 from Bot import Bot
-
+from flask import Flask
+app = Flask(__name__)
 
 if __name__ == "__main__":
+    #app.run(debug=False, host='0.0.0.0')
     print('Hello. I am your contact-assistant. What should I do with your contacts?')
     bot = Bot()
     bot.book.load("auto_save")
